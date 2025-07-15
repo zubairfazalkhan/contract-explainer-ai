@@ -2,7 +2,7 @@
 title: Contract Clause Explainer AI
 emoji: 📄
 colorFrom: blue
-colorTo: teal
+colorTo: green
 sdk: gradio
 sdk_version: "4.20.1"
 app_file: app.py
