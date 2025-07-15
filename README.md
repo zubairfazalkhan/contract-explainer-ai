@@ -1,3 +1,15 @@
+---
+title: Contract Clause Explainer AI
+emoji: 📄
+colorFrom: blue
+colorTo: teal
+sdk: gradio
+sdk_version: "4.20.1"
+app_file: app.py
+pinned: false
+---
+
+
 # 📄 Contract Clause Explainer AI
 
 An AI-powered Streamlit app that explains legal and contract clauses in plain, human-friendly language using [GPT-2](https://huggingface.co/openai-community/gpt2).
